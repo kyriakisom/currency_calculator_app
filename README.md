@@ -1,6 +1,6 @@
 # calculator-frontend
 
-## Project setup/Installing necessary pacakages
+## Project setup/Installing necessary packages
 ```
 npm install
 This needs to be done in the main directory, and also in the calculator-frontend
